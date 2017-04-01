@@ -1,0 +1,5 @@
+C:\Users\elipe\Desktop\ASP.NET\ExemploTDD\ExemploTDD\ExemploTDD.Domain\bin\Debug\ExemploTDD.Domain.dll
+C:\Users\elipe\Desktop\ASP.NET\ExemploTDD\ExemploTDD\ExemploTDD.Domain\bin\Debug\ExemploTDD.Domain.pdb
+C:\Users\elipe\Desktop\ASP.NET\ExemploTDD\ExemploTDD\ExemploTDD.Domain\obj\Debug\ExemploTDD.Domain.csprojResolveAssemblyReference.cache
+C:\Users\elipe\Desktop\ASP.NET\ExemploTDD\ExemploTDD\ExemploTDD.Domain\obj\Debug\ExemploTDD.Domain.dll
+C:\Users\elipe\Desktop\ASP.NET\ExemploTDD\ExemploTDD\ExemploTDD.Domain\obj\Debug\ExemploTDD.Domain.pdb

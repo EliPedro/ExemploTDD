@@ -1,0 +1,8 @@
+C:\Users\elipe\Desktop\ASP.NET\ExemploTDD\ExemploTDD\UnitTestFinanceiro\bin\Debug\UnitTestFinanceiro.dll
+C:\Users\elipe\Desktop\ASP.NET\ExemploTDD\ExemploTDD\UnitTestFinanceiro\bin\Debug\UnitTestFinanceiro.pdb
+C:\Users\elipe\Desktop\ASP.NET\ExemploTDD\ExemploTDD\UnitTestFinanceiro\bin\Debug\ExemploTDD.Domain.dll
+C:\Users\elipe\Desktop\ASP.NET\ExemploTDD\ExemploTDD\UnitTestFinanceiro\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\elipe\Desktop\ASP.NET\ExemploTDD\ExemploTDD\UnitTestFinanceiro\bin\Debug\ExemploTDD.Domain.pdb
+C:\Users\elipe\Desktop\ASP.NET\ExemploTDD\ExemploTDD\UnitTestFinanceiro\obj\Debug\UnitTestFinanceiro.csprojResolveAssemblyReference.cache
+C:\Users\elipe\Desktop\ASP.NET\ExemploTDD\ExemploTDD\UnitTestFinanceiro\obj\Debug\UnitTestFinanceiro.dll
+C:\Users\elipe\Desktop\ASP.NET\ExemploTDD\ExemploTDD\UnitTestFinanceiro\obj\Debug\UnitTestFinanceiro.pdb
