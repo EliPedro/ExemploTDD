@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0 - Domain", "0 - Domain", "{00A5B8FE-C7A7-4B77-B64C-1F3DB4408250}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - UnitTest", "1 - UnitTest", "{8155E627-6AA4-48B9-9FB9-2511169DC33F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExemploTDD.Domain", "ExemploTDD.Domain\ExemploTDD.Domain.csproj", "{5554AB54-603D-4D08-9D9C-25A7817A949B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.1 - Financeiro", "1.1 - Financeiro", "{09C44ECF-64BB-416B-A24F-B696672289EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestFinanceiro", "UnitTestFinanceiro\UnitTestFinanceiro.csproj", "{FC4A5827-4F68-4CF8-8996-C33D6441CA83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5554AB54-603D-4D08-9D9C-25A7817A949B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5554AB54-603D-4D08-9D9C-25A7817A949B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5554AB54-603D-4D08-9D9C-25A7817A949B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5554AB54-603D-4D08-9D9C-25A7817A949B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC4A5827-4F68-4CF8-8996-C33D6441CA83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC4A5827-4F68-4CF8-8996-C33D6441CA83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC4A5827-4F68-4CF8-8996-C33D6441CA83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC4A5827-4F68-4CF8-8996-C33D6441CA83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5554AB54-603D-4D08-9D9C-25A7817A949B} = {00A5B8FE-C7A7-4B77-B64C-1F3DB4408250}
+		{09C44ECF-64BB-416B-A24F-B696672289EE} = {8155E627-6AA4-48B9-9FB9-2511169DC33F}
+		{FC4A5827-4F68-4CF8-8996-C33D6441CA83} = {09C44ECF-64BB-416B-A24F-B696672289EE}
+	EndGlobalSection
+EndGlobal
